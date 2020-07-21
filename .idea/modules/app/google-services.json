@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413267927725",
+    "firebase_url": "https://fir-notif-34c70.firebaseio.com",
+    "project_id": "fir-notif-34c70",
+    "storage_bucket": "fir-notif-34c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413267927725:android:a33e24d36f9b594781dc24",
+        "android_client_info": {
+          "package_name": "com.aji.firebasenotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413267927725-dtodvob94lscr172e7jd2bln5ntndoif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aji.firebasenotif",
+            "certificate_hash": "f426f9d2d9dc94843bd1e92f8da933d029b6e88f"
+          }
+        },
+        {
+          "client_id": "413267927725-flik6pmsc7rtfpk58e16p595bk2muilr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR4s45zfXPyfM5fhjsRDsRz4pxP7E8JRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413267927725-flik6pmsc7rtfpk58e16p595bk2muilr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
